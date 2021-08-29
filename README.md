@@ -8,7 +8,7 @@ known conversations.
 
 An example of typical input would be something like this: 
 
-
+```
  **user:** Hi! How are you doing?  
  
 **bot:**  I am perfectly fine, thank you for asking.  
@@ -16,7 +16,7 @@ An example of typical input would be something like this:
  **user:** You're welcome.  
  
  **bot:** What is your favourite colour?
- 
+```
 
 ## Installation
 
