@@ -11,7 +11,7 @@ An example of typical input would be something like this:
 ```
  **user:** Hi! How are you doing?  
  
-**bot:**  I am perfectly fine, thank you for asking.  
+ **bot:**  I am perfectly fine, thank you for asking.  
 
  **user:** You're welcome.  
  
