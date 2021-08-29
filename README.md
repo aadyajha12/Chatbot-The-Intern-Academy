@@ -6,12 +6,13 @@ A chatbot created using Chatterbot which is used to answer basic conversational 
 ChatterBot is a machine-learning based conversational dialog engine build in Python which makes it possible to generate responses based on collections of
 known conversations. 
 [
-An example of typical input would be something like this:
+An example of typical input would be something like this: 
+]
 
-> **user:** Hi! How are you doing?  
-> **bot:**  I am perfectly fine, thank you for asking.  
-> **user:** You're welcome.  
-> **bot:** What is your favourite colour?
+ **user:** Hi! How are you doing?  
+**bot:**  I am perfectly fine, thank you for asking.  
+ **user:** You're welcome.  
+ **bot:** What is your favourite colour?
 
 ## Installation
 
